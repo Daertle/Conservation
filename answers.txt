@@ -1,0 +1,4 @@
+¿A qué hora desapareció el cuadro?: 15
+¿Quién es el responsable de la desaparición del cuadro?: Zombie
+¿Las luces tienen relación con los sucesos extraños del museo?: ls
+
